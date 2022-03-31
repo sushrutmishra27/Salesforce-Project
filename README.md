@@ -42,4 +42,4 @@ This project includes the following topics
 
 > You can the course in Udemy [Click Here](https://www.udemy.com/course/salesforce-development-project/?couponCode=NEWLAUNCH)
 
-### This project will give you confidence and it will be fun learning.
+### This project will give you confidence and it will be fun learning. Super-Salesforce Learning!!
